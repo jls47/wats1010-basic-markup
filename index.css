@@ -1,0 +1,17 @@
+body{
+  margin: 100px 100px 100px 100px;
+  font-family: Arial;
+}
+
+.title{
+  font-weight: lighter;
+}
+
+.institution{
+  font-weight: 800;
+}
+
+.picture{
+  color: grey;
+  margin-bottom: 0px;
+}
